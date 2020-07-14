@@ -115,6 +115,15 @@
     "typeId": 3
   },
   {
+    "id": 16,
+    "nameTh": "ท่าอากาศยานแม่สอด",
+    "nameEn": "MAESOT",
+    "city": "MAE SOT",
+    "icao": "VTPM",
+    "typeName": "สนามบิน DOA",
+    "typeId": 3
+  },
+  {
     "id": 17,
     "nameTh": "ท่าอากาศยานพิษณุโลก",
     "nameEn": "PHITSANULOK",
@@ -122,15 +131,6 @@
     "icao": "VTPP",
     "typeName": "สนามบิน DOA",
     "typeId": 3
-  },
-  {
-    "id": 19,
-    "nameTh": "สนามบินอุตรดิตถ์",
-    "nameEn": "UTARADIT",
-    "city": "UTARADIT",
-    "icao": "VTPU",
-    "typeName": "สนามบินต่างชาติ",
-    "typeId": 1
   },
   {
     "id": 20,
