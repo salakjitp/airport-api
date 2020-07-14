@@ -1,13 +1,8 @@
 
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
   "profile": {
-    "name": "typicode"
+    "name": "airport-api",
+    "description" : ""
   },
   "airportType":[
     {
