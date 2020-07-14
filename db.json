@@ -20,15 +20,6 @@
     "typeId": 2
   },
   {
-    "id": 2,
-    "nameTh": "สนามบินกำแพงแสน",
-    "nameEn": "NAKHON PATHOM/KAMPHAENG SAEN",
-    "city": "NAKHON PATHOM",
-    "icao": "VTBK",
-    "typeName": "สนามบินต่างชาติ",
-    "typeId": 1
-  },
-  {
     "id": 3,
     "nameTh": "ท่าอากาศยานสุวรรณภูมิ",
     "nameEn": "SUVARNABHUMI",
@@ -36,15 +27,6 @@
     "icao": "VTBS",
     "typeName": "สนามบิน AOT",
     "typeId": 2
-  },
-  {
-    "id": 4,
-    "nameTh": "สนามบินบางพระ",
-    "nameEn": "CHON BURI (BANG PHRA)",
-    "city": "CHONBURI",
-    "icao": "VTBT",
-    "typeName": "สนามบิน DOA",
-    "typeId": 3
   },
   {
     "id": 5,
@@ -101,24 +83,6 @@
     "typeId": 3
   },
   {
-    "id": 11,
-    "nameTh": "สนามบินเชียงราย",
-    "nameEn": "CHIANGRAI",
-    "city": "CHIANG RAI",
-    "icao": "VTCR",
-    "typeName": "สนามบิน AOT",
-    "typeId": 2
-  },
-  {
-    "id": 12,
-    "nameTh": "ท่าอากาศยานแม่สะเรียง",
-    "nameEn": "MAESARIANG",
-    "city": "MAE HONG SON",
-    "icao": "VTCS",
-    "typeName": "สนามบิน DOA",
-    "typeId": 3
-  },
-  {
     "id": 13,
     "nameTh": "ท่าอากาศยานแม่ฟ้าหลวง เชียงราย",
     "nameEn": "MAE FAH LUANG - CHIANG RAI",
@@ -126,15 +90,6 @@
     "icao": "VTCT",
     "typeName": "สนามบิน AOT",
     "typeId": 2
-  },
-  {
-    "id": 14,
-    "nameTh": "ท่าอากาศยานเพชรบูรณ์",
-    "nameEn": "PHETCHABUN",
-    "city": "PHETCHABUN",
-    "icao": "VTPB",
-    "typeName": "สนามบิน DOA",
-    "typeId": 3
   },
   {
     "id": 15,
@@ -146,29 +101,11 @@
     "typeId": 3
   },
   {
-    "id": 16,
-    "nameTh": "ท่าอากาศยานแม่สอด",
-    "nameEn": "MAESOT",
-    "city": "MAE SOT",
-    "icao": "VTPM",
-    "typeName": "สนามบิน DOA",
-    "typeId": 3
-  },
-  {
     "id": 17,
     "nameTh": "ท่าอากาศยานพิษณุโลก",
     "nameEn": "PHITSANULOK",
     "city": "PHITSANULOK",
     "icao": "VTPP",
-    "typeName": "สนามบิน DOA",
-    "typeId": 3
-  },
-  {
-    "id": 18,
-    "nameTh": "ท่าอากาศยานตาก",
-    "nameEn": "TAK",
-    "city": "TAK",
-    "icao": "VTPT",
     "typeName": "สนามบิน DOA",
     "typeId": 3
   },
@@ -187,15 +124,6 @@
     "nameEn": "SURATTHANI",
     "city": "SURATTHANI",
     "icao": "VTSB",
-    "typeName": "สนามบิน DOA",
-    "typeId": 3
-  },
-  {
-    "id": 21,
-    "nameTh": "ท่าอากาศยานนราธิวาส",
-    "nameEn": "NARATHIWAT",
-    "city": "NARATHIWAT",
-    "icao": "VTSC",
     "typeName": "สนามบิน DOA",
     "typeId": 3
   },
@@ -227,15 +155,6 @@
     "typeId": 3
   },
   {
-    "id": 25,
-    "nameTh": "ท่าอากาศยานปัตตานี",
-    "nameEn": "PATTANI",
-    "city": "PATTANI",
-    "icao": "VTSK",
-    "typeName": "สนามบิน DOA",
-    "typeId": 3
-  },
-  {
     "id": 26,
     "nameTh": "ท่าอากาศยานภูเก็ต",
     "nameEn": "PHUKET",
@@ -243,15 +162,6 @@
     "icao": "VTSP",
     "typeName": "สนามบิน AOT",
     "typeId": 2
-  },
-  {
-    "id": 27,
-    "nameTh": "ท่าอากาศยานระนอง",
-    "nameEn": "RANONG",
-    "city": "RANONG",
-    "icao": "VTSR",
-    "typeName": "สนามบิน DOA",
-    "typeId": 3
   },
   {
     "id": 28,
@@ -290,15 +200,6 @@
     "typeId": 3
   },
   {
-    "id": 32,
-    "nameTh": "ปากช่อง",
-    "nameEn": "NAKHONRATCHASIMA/PAK CHONG",
-    "city": "NAKHON RATCHASIMA",
-    "icao": "VTUH",
-    "typeName": "สนามบิน DOA",
-    "typeId": 3
-  },
-  {
     "id": 33,
     "nameTh": "ท่าอากาศยานสกลนคร",
     "nameEn": "SAKON NAKHON",
@@ -322,15 +223,6 @@
     "nameEn": "LOEI",
     "city": "LOEI",
     "icao": "VTUL",
-    "typeName": "สนามบิน DOA",
-    "typeId": 3
-  },
-  {
-    "id": 36,
-    "nameTh": "หนองคาย",
-    "nameEn": "NONGKHAI",
-    "city": "NONGKHAI",
-    "icao": "VTUM",
     "typeName": "สนามบิน DOA",
     "typeId": 3
   },
