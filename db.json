@@ -9,6 +9,20 @@
   "profile": {
     "name": "typicode"
   },
+  "airportType":[
+    {
+      "id": 1,
+      "name": "สนามบินต่างชาติ"
+    },
+    {
+      "id": 2,
+      "name": "สนามบิน AOT"
+    },
+    {
+      "id": 3,
+      "name": "สนามบิน DOAT"
+    }
+  ],
   "airports":[
   {
     "id": 1,
