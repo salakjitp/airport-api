@@ -4,7 +4,9 @@
     "name": "airport-api",
     "description" : ""
   },
-  "airportType":[
+  "airportType": {
+    "description" : "ประเภทสนามบิน",
+    "list" : [
     {
       "id": 1,
       "name": "สนามบินต่างชาติ"
@@ -17,7 +19,8 @@
       "id": 3,
       "name": "สนามบิน DOA"
     }
-  ],
+  ]
+  },
   "airports":[
   {
     "id": 1,
