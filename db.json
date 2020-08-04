@@ -21,6 +21,274 @@
     }
   ]
   },
+  "airports2" : [
+    { "region"  : 1 , "regionName" : "Noth", 
+    "list" : [
+  {
+    "id": 1,
+    "nameTh": "ท่าอากาศยานดอนเมือง",
+    "nameEn": "DON MUEANG",
+    "city": "BANGKOK",
+    "icao": "VTBD",
+    "typeName": "สนามบิน AOT",
+    "typeId": 2
+  },
+  {
+    "id": 3,
+    "nameTh": "ท่าอากาศยานสุวรรณภูมิ",
+    "nameEn": "SUVARNABHUMI",
+    "city": "SAMUTPRAKAN",
+    "icao": "VTBS",
+    "typeName": "สนามบิน AOT",
+    "typeId": 2
+  },
+  {
+    "id": 5,
+    "nameTh": "ท่าอากาศยานเชียงใหม่",
+    "nameEn": "CHIANG MAI",
+    "city": "CHIANG MAI",
+    "icao": "VTCC",
+    "typeName": "สนามบิน AOT",
+    "typeId": 2
+  },
+  {
+    "id": 6,
+    "nameTh": "ท่าอากาศยานแม่ฮ่องสอน",
+    "nameEn": "MAE HONG SON",
+    "city": "MAE HONG SON",
+    "icao": "VTCH",
+    "typeName": "สนามบิน DOA",
+    "typeId": 3
+  },
+  {
+    "id": 7,
+    "nameTh": "ท่าอากาศยานปาย",
+    "nameEn": "PAI",
+    "city": "PAI",
+    "icao": "VTCI",
+    "typeName": "สนามบิน DOA",
+    "typeId": 3
+  },
+  {
+    "id": 8,
+    "nameTh": "ท่าอากาศยานลำปาง",
+    "nameEn": "LAMPANG",
+    "city": "LAMPANG",
+    "icao": "VTCL",
+    "typeName": "สนามบิน DOA",
+    "typeId": 3
+  },
+  {
+    "id": 9,
+    "nameTh": "ท่าอากาศยานน่านนคร",
+    "nameEn": "NANNAKHON",
+    "city": "NAN",
+    "icao": "VTCN",
+    "typeName": "สนามบิน DOA",
+    "typeId": 3
+  },
+  {
+    "id": 10,
+    "nameTh": "ท่าอากาศยานแพร่",
+    "nameEn": "PHRAE",
+    "city": "PHRAE",
+    "icao": "VTCP",
+    "typeName": "สนามบิน DOA",
+    "typeId": 3
+  },
+  {
+    "id": 13,
+    "nameTh": "ท่าอากาศยานแม่ฟ้าหลวง เชียงราย",
+    "nameEn": "MAE FAH LUANG - CHIANG RAI",
+    "city": "CHIANG RAI",
+    "icao": "VTCT",
+    "typeName": "สนามบิน AOT",
+    "typeId": 2
+  },
+  {
+    "id": 15,
+    "nameTh": "ท่าอากาศยานหัวหิน",
+    "nameEn": "HUAHIN",
+    "city": "HUA HIN",
+    "icao": "VTPH",
+    "typeName": "สนามบิน DOA",
+    "typeId": 3
+  },
+  {
+    "id": 16,
+    "nameTh": "ท่าอากาศยานแม่สอด",
+    "nameEn": "MAESOT",
+    "city": "MAE SOT",
+    "icao": "VTPM",
+    "typeName": "สนามบิน DOA",
+    "typeId": 3
+  },
+  {
+    "id": 17,
+    "nameTh": "ท่าอากาศยานพิษณุโลก",
+    "nameEn": "PHITSANULOK",
+    "city": "PHITSANULOK",
+    "icao": "VTPP",
+    "typeName": "สนามบิน DOA",
+    "typeId": 3
+  },
+  {
+    "id": 20,
+    "nameTh": "ท่าอากาศยานสุราษฎร์ธานี",
+    "nameEn": "SURATTHANI",
+    "city": "SURATTHANI",
+    "icao": "VTSB",
+    "typeName": "สนามบิน DOA",
+    "typeId": 3
+  },
+  {
+    "id": 22,
+    "nameTh": "ท่าอากาศยานชุมพร",
+    "nameEn": "CHUMPHON",
+    "city": "CHUMPHON",
+    "icao": "VTSE",
+    "typeName": "สนามบิน DOA",
+    "typeId": 3
+  },
+  {
+    "id": 23,
+    "nameTh": "ท่าอากาศยานนครศรีธรรมราช",
+    "nameEn": "NAKHON SI THAMMARAT",
+    "city": "NAKHON SI THAMMARAT",
+    "icao": "VTSF",
+    "typeName": "สนามบิน DOA",
+    "typeId": 3
+  },
+  {
+    "id": 24,
+    "nameTh": "ท่าอากาศยานกระบี่",
+    "nameEn": "KRABI",
+    "city": "KRA BI",
+    "icao": "VTSG",
+    "typeName": "สนามบิน DOA",
+    "typeId": 3
+  },
+  {
+    "id": 26,
+    "nameTh": "ท่าอากาศยานภูเก็ต",
+    "nameEn": "PHUKET",
+    "city": "PHUKET",
+    "icao": "VTSP",
+    "typeName": "สนามบิน AOT",
+    "typeId": 2
+  },
+  {
+    "id": 28,
+    "nameTh": "ท่าอากาศยานหาดใหญ่",
+    "nameEn": "HAT YAI",
+    "city": "HAT YAI",
+    "icao": "VTSS",
+    "typeName": "สนามบิน AOT",
+    "typeId": 2
+  },
+  {
+    "id": 29,
+    "nameTh": "ท่าอากาศยานตรัง",
+    "nameEn": "TRANG",
+    "city": "TRANG",
+    "icao": "VTST",
+    "typeName": "สนามบิน DOA",
+    "typeId": 3
+  },
+  {
+    "id": 30,
+    "nameTh": "ท่าอากาศยานเบตง",
+    "nameEn": "BETONG",
+    "city": "YALA",
+    "icao": "VTSY",
+    "typeName": "สนามบิน DOA",
+    "typeId": 3
+  },
+  {
+    "id": 31,
+    "nameTh": "ท่าอากาศยานอุดรธานี",
+    "nameEn": "UDONTHANI",
+    "city": "UDONTHANI",
+    "icao": "VTUD",
+    "typeName": "สนามบิน DOA",
+    "typeId": 3
+  },
+  {
+    "id": 33,
+    "nameTh": "ท่าอากาศยานสกลนคร",
+    "nameEn": "SAKON NAKHON",
+    "city": "SAKON NAKHON",
+    "icao": "VTUI",
+    "typeName": "สนามบิน DOA",
+    "typeId": 3
+  },
+  {
+    "id": 34,
+    "nameTh": "ท่าอากาศยานขอนแก่น",
+    "nameEn": "KHONKAEN",
+    "city": "KHONKAEN",
+    "icao": "VTUK",
+    "typeName": "สนามบิน DOA",
+    "typeId": 3
+  },
+  {
+    "id": 35,
+    "nameTh": "ท่าอากาศยานเลย",
+    "nameEn": "LOEI",
+    "city": "LOEI",
+    "icao": "VTUL",
+    "typeName": "สนามบิน DOA",
+    "typeId": 3
+  },
+  {
+    "id": 37,
+    "nameTh": "ท่าอากาศยานบุรีรัมย์",
+    "nameEn": "BURIRAM",
+    "city": "BURIRAM",
+    "icao": "VTUO",
+    "typeName": "สนามบิน DOA",
+    "typeId": 3
+  },
+  {
+    "id": 38,
+    "nameTh": "ท่าอากาศยานนครราชสีมา",
+    "nameEn": "NAKHON RATCHASIMA",
+    "city": "NAKHON RATCHASIMA",
+    "icao": "VTUQ",
+    "typeName": "สนามบิน DOA",
+    "typeId": 3
+  },
+  {
+    "id": 39,
+    "nameTh": "ท่าอากาศยานอุบลราชธานี",
+    "nameEn": "UBONRATCHATHANI",
+    "city": "UBON RATCHATHANI",
+    "icao": "VTUU",
+    "typeName": "สนามบิน DOA",
+    "typeId": 3
+  },
+  {
+    "id": 40,
+    "nameTh": "ท่าอากาศยานร้อยเอ็ด",
+    "nameEn": "ROI ET",
+    "city": "ROI ET",
+    "icao": "VTUV",
+    "typeName": "สนามบิน DOA",
+    "typeId": 3
+  },
+  {
+    "id": 41,
+    "nameTh": "ท่าอากาศยานนครพนม",
+    "nameEn": "NAKHON PHANOM",
+    "city": "NAKHON PHANOM",
+    "icao": "VTUW",
+    "typeName": "สนามบิน DOA",
+    "typeId": 3
+  }
+] }
+  
+  ]
+  ,
   "airports":[
   {
     "id": 1,
